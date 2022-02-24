@@ -4,7 +4,7 @@ intent('Can you hear me',
 intent('What is this app',
       reply('This is my project Alan AI with ReactJs'));
 intent('Who make this app',
-      reply('My name is Lý Minh Trí and I am the front end developer, nice to meet you'));
+      reply('My name is LÃ½ Minh TrÃ­ and I am the front end developer, nice to meet you'));
 intent('How can i use this app',
       reply('tell Alan what kind of article you want to do read and Alan will help you find those article'));
 intent('Thanks',
